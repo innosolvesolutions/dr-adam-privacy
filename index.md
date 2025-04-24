@@ -11,7 +11,7 @@ Dr. ADAM ("we", "our", or "us") is committed to protecting your privacy. This Pr
 Dr. ADAM does **not collect any personally identifiable information** unless explicitly provided by the user.
 
 We may process:
-- The text you enter into the chatbot for generating medical-related responses
+- The text you enter into ther chatbot for generating medical-related responses
 - Device information for app improvement (non-personal and anonymized)
 
 We do **not** collect:
@@ -25,7 +25,7 @@ We do **not** collect:
 ## 2. How We Use Your Information
 
 Any data entered into Dr. ADAM is used solely for:
-- Generating AI-powered clinical assistant responses
+- Generating AI-powered responses
 - Improving the quality of suggestions through aggregated, anonymized feedback (if enabled)
 
 We do **not** sell or share your data with third parties.
@@ -34,7 +34,7 @@ We do **not** sell or share your data with third parties.
 
 ## 3. AI & Medical Disclaimer
 
-Dr. ADAM is an AI-powered clinical assistant for informational purposes only.
+Dr. ADAM is an AI-powered  assistant for educational purposes only.
 
 > **Dr. ADAM does not provide professional medical advice. Always consult a licensed physician or healthcare provider for medical decisions.**
 
